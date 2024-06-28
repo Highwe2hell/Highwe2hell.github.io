@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Typora免费激活教程（已支持最新版1.9.4）</title>
+    <url>/2024/06/20/free-activation-tutorial-for-typora/</url>
+    <content><![CDATA[<blockquote>
+<p>实测可用，无需修改注册表、修改代码等复杂操作。</p>
+</blockquote>
+<h1 id="一、Typora介绍"><a href="#一、Typora介绍" class="headerlink" title="一、Typora介绍"></a>一、Typora介绍</h1><p>Typora是一款广受欢迎的跨平台Markdown编辑器，以其简洁的界面和流畅的用户体验而著称。它支持实时预览功能，使您在编辑Markdown文档的同时即可看到最终效果，无需切换视图。此外，Typora提供了自动保存、多种导出格式（如PDF、HTML、Word等）以及丰富的主题和样式选项，满足不同用户的需求。通过直观的操作界面和便捷的快捷键，您可以轻松地进行文本编辑、格式调整和内容管理，使写作、笔记记录和文档编写更加高效。无论是编程开发者、作家还是学生，Typora都能为您提供出色的Markdown编辑体验。</p>
+<h1 id="二、使用方法"><a href="#二、使用方法" class="headerlink" title="二、使用方法"></a>二、使用方法</h1><p>该激活工具来自GitHub开源项目：有编程基础者可自行编译使用。<br><a href="https://github.com/DiamondHunters/NodeInject_Hook_example/">https://github.com/DiamondHunters/NodeInject_Hook_example/</a><br>我已经将Windows版激活工具打包，下载即用，以下是操作步骤：</p>
+<h2 id="1-下载安装包及激活工具。"><a href="#1-下载安装包及激活工具。" class="headerlink" title="1.下载安装包及激活工具。"></a>1.下载安装包及激活工具。</h2><p>Typora官网地址：<a href="https://typora.io/">https://typora.io/</a><br>Typora官方中文站：<a href="https://typoraio.cn/">https://typoraio.cn/</a><br>激活工具下载地址：<a href="https://www.lanzouw.com/iDDeC22vk80j/">https://www.lanzouw.com/iDDeC22vk80j/</a></p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img01.png" class="">
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img02.png" class="">
+
+<h2 id="2-安装Typora并解压压缩包。"><a href="#2-安装Typora并解压压缩包。" class="headerlink" title="2.安装Typora并解压压缩包。"></a>2.安装Typora并解压压缩包。</h2><p>Typora的安装过程我就不演示了，一直下一步即可。下载完工具后会得到一个rar压缩包，将其解压后里面有两个exe文件。</p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img03.png" class="">
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img04.png" class="">
+
+<h2 id="3-将文件复制到Typora安装目录。"><a href="#3-将文件复制到Typora安装目录。" class="headerlink" title="3.将文件复制到Typora安装目录。"></a>3.将文件复制到Typora安装目录。</h2><p>把解压出来的两个文件复制到Typora的安装目录下。</p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img05.png" class="">
+
+<h2 id="4-以管理员身份运行CMD。"><a href="#4-以管理员身份运行CMD。" class="headerlink" title="4.以管理员身份运行CMD。"></a>4.以管理员身份运行CMD。</h2><p>点击Windows键或系统搜索框搜索CMD（即命令提示符），并以管理员身份运行。</p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img06.png" class="">
+
+<h2 id="5-输入指令并运行工具。"><a href="#5-输入指令并运行工具。" class="headerlink" title="5.输入指令并运行工具。"></a>5.输入指令并运行工具。</h2><h3 id="5-1将CMD跳转到安装目录。"><a href="#5-1将CMD跳转到安装目录。" class="headerlink" title="5.1将CMD跳转到安装目录。"></a>5.1将CMD跳转到安装目录。</h3><p>输入“cd 安装路径”，按回车，跳转到安装路径。</p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img07.png" class="">
+
+<h3 id="5-2输入指令获得激活码。"><a href="#5-2输入指令获得激活码。" class="headerlink" title="5.2输入指令获得激活码。"></a>5.2输入指令获得激活码。</h3><p>先输入node_inject.exe按回车，等待提示”done!”。<br>再输入license-gen.exe按回车，等待显示序列号。</p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img08.png" class="">
+
+<h2 id="6-打开Typora并输入序列号。"><a href="#6-打开Typora并输入序列号。" class="headerlink" title="6.打开Typora并输入序列号。"></a>6.打开Typora并输入序列号。</h2><p>邮箱随便填，复制序列号后点击激活按钮。</p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img09.png" class="">
+
+<h2 id="7-错误提示。"><a href="#7-错误提示。" class="headerlink" title="7.错误提示。"></a>7.错误提示。</h2><p>如果网络不好，有可能会弹出错误提示，点击确认即可。</p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img10.png" class="">
+
+<h2 id="8-激活成功。"><a href="#8-激活成功。" class="headerlink" title="8.激活成功。"></a>8.激活成功。</h2><p>激活成功后不要更新，会导致激活失效。如果必须要更新，先将旧版本彻底卸载干净，再重新安装新版本激活。</p>
+<img src="/2024/06/20/free-activation-tutorial-for-typora/img11.png" class="">
+
+
+
+<h1 id="三、结语"><a href="#三、结语" class="headerlink" title="三、结语"></a>三、结语</h1><p>通过以上步骤，您可以轻松安装Typora，使其成为您日常工作中不可或缺的Markdown编辑器。Typora简洁高效的功能和友好的用户界面，将大大提升您的写作、编程和文档处理效率。如果这篇文章对您有所帮助，请不吝给予好评，您的支持是我持续分享更多有用资源的动力！感谢您的阅读，祝您使用愉快！</p>
+]]></content>
+      <categories>
+        <category>激活工具</category>
+      </categories>
+      <tags>
+        <tag>Typora</tag>
+        <tag>Markdown</tag>
+        <tag>编辑器</tag>
+        <tag>安装指南</tag>
+        <tag>激活工具</tag>
+        <tag>文档处理</tag>
+        <tag>开发者工具</tag>
+      </tags>
+  </entry>
+</search>
