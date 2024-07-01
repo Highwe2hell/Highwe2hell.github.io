@@ -6,7 +6,7 @@
   <link href="https://highwe2hell.github.io/atom.xml" rel="self"/>
   
   <link href="https://highwe2hell.github.io/"/>
-  <updated>2024-07-01T11:39:08.273Z</updated>
+  <updated>2024-07-01T12:47:04.100Z</updated>
   <id>https://highwe2hell.github.io/</id>
   
   <author>
@@ -17,18 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>中文文案排版指南</title>
+    <link href="https://highwe2hell.github.io/2024/07/01/chinese-copywriting-guidelines/"/>
+    <id>https://highwe2hell.github.io/2024/07/01/chinese-copywriting-guidelines/</id>
+    <published>2024-07-01T12:11:27.000Z</published>
+    <updated>2024-07-01T12:47:04.100Z</updated>
+    
+    
+    <summary type="html">统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。</summary>
+    
+    
+    
+    <category term="排版规范" scheme="https://highwe2hell.github.io/categories/%E6%8E%92%E7%89%88%E8%A7%84%E8%8C%83/"/>
+    
+    
+    <category term="文案" scheme="https://highwe2hell.github.io/tags/%E6%96%87%E6%A1%88/"/>
+    
+    <category term="排版" scheme="https://highwe2hell.github.io/tags/%E6%8E%92%E7%89%88/"/>
+    
+    <category term="标点符号" scheme="https://highwe2hell.github.io/tags/%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7/"/>
+    
+    <category term="排版规范" scheme="https://highwe2hell.github.io/tags/%E6%8E%92%E7%89%88%E8%A7%84%E8%8C%83/"/>
+    
+    <category term="全角和半角" scheme="https://highwe2hell.github.io/tags/%E5%85%A8%E8%A7%92%E5%92%8C%E5%8D%8A%E8%A7%92/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Typora 免费激活教程（已支持最新版 1.9.5）</title>
     <link href="https://highwe2hell.github.io/2024/06/20/free-activation-tutorial-for-typora/"/>
     <id>https://highwe2hell.github.io/2024/06/20/free-activation-tutorial-for-typora/</id>
     <published>2024-06-20T11:44:04.000Z</published>
-    <updated>2024-07-01T11:39:08.273Z</updated>
+    <updated>2024-07-01T12:45:56.399Z</updated>
     
     
     <summary type="html">Typora 是一款广受欢迎的跨平台 Markdown 编辑器，以其简洁的界面和流畅的用户体验而著称。通过本文的介绍，您可以轻松的免费安装 Typora，使其成为您日常工作中不可或缺的 Markdown 编辑器。Typora 简洁高效的功能和友好的用户界面，将大大提升您的写作、编程和文档处理效率。如果这篇文章对您有所帮助，请不吝给予好评，您的支持是我持续分享更多有用资源的动力！</summary>
     
     
     
-    <category term="激活工具" scheme="https://highwe2hell.github.io/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/"/>
+    <category term="破解教程" scheme="https://highwe2hell.github.io/categories/%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/"/>
     
     
     <category term="Typora" scheme="https://highwe2hell.github.io/tags/Typora/"/>
@@ -39,11 +66,11 @@
     
     <category term="安装指南" scheme="https://highwe2hell.github.io/tags/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97/"/>
     
-    <category term="激活工具" scheme="https://highwe2hell.github.io/tags/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="文档处理" scheme="https://highwe2hell.github.io/tags/%E6%96%87%E6%A1%A3%E5%A4%84%E7%90%86/"/>
     
     <category term="开发者工具" scheme="https://highwe2hell.github.io/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="破解教程" scheme="https://highwe2hell.github.io/tags/%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
